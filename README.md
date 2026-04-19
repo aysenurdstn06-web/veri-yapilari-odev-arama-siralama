@@ -28,4 +28,3 @@ Bu proje, temel arama ve sıralama algoritmalarının Python uygulamalarını ve
 ## 🛠️ Nasıl Çalıştırılır?
 * Proje bir Jupyter Notebook (`.ipynb`) dosyasıdır.
 * **Google Colab**, **VS Code** veya **Jupyter** üzerinden açarak tüm hücreleri çalıştırabilirsiniz.
-
